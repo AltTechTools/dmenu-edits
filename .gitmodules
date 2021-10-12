@@ -1,0 +1,6 @@
+[submodule "dmenu-orig"]
+	path = dmenu-orig
+	url = https://git.suckless.org/dmenu
+[submodule "dmenu-edit"]
+	path = dmenu-edit
+	url = https://github.com/AltTechTools/dmenu.git
